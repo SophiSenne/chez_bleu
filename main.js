@@ -17,7 +17,7 @@ window.onload = function()
             arcade: {
                 //colocar gravidade no jogo
                 gravity: { y: 300},
-                debug: true
+                debug: false
               }
           },
           
